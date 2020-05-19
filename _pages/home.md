@@ -5,7 +5,7 @@ header:
   overlay_color_off: "#5e616c"
   overlay_image: /assets/images/homepage/Horizontal-mw-banner.jpg
   caption:
-excerpt: 'Equipment tours and reviews, tutorials, and conversation<br/>'
+excerpt: 'Equipment tours, reviews, tutorials, and conversation<br/>'
 
 feature_row:
   - image_path: /assets/images/homepage/horizontal-mw-teaser.jpg
