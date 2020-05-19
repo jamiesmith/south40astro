@@ -5,15 +5,18 @@ jamiesmith:
   uri         : "https://www.theastroshed.com"
   home        : "https://www.theastroshed.com"
   bio         : "Software Architect/Explaineer/Bar Geek"
-  avatar      : "/assets/images/homepage/choctini.jpg"
+  avatar      : "/assets/images/avatars/jamiesmith.jpg"
   twitter     : "astrosaloon"
   instagram   : "AstroSaloon"
-  github       : "jamiesmith"
+  github      : "jamiesmith"
   astrobin    : jamiesmithnc
 
-anotherauthor:
-  name        : "Another Author"
-  uri         : "https://www.theastroshed.com"
-  bio         : "Gadget loving father of girls"
-  avatar      : "/assets/images/homepage/choctini.jpg"
-  twitter     : "astrosaloon"
+jeffreygeiss:
+  name        : "Jeffrey Geiss"
+  astrobin    : "nightster"
+  avatar      : "/assets/images/avatars/jeffreygeiss.jpg"
+  bio         : "Jeff moved to Charlotte from Ill in 2005 and stated his obsession with Astrophotography in 2008"
+  cloudnights : nightster 
+  instagram   : "jeffreygeis"
+  stargazerslounge: nightster 
+  twitter     : "jeffreygeis"
