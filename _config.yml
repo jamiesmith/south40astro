@@ -11,13 +11,13 @@ minimal_mistakes_skin    : "astrosaloon"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "theAstroShed"
+title                    : "South 40 Astro"
 title_separator          : "-"
 name                     : &name "Jamie Smith" # &name is a YAML anchor which can be *referenced later
-description              : &description "Join us as we photograph the stars"
-url                      : https://www.theastroshed.com 
+description              : &description "Welcome to South 40 Astro"
+url                      : https://www.south40astro.com 
 baseurl                  : 
-repository               : "jamiesmith/astrosaloon"
+repository               : "jamiesmith/south40stro"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -68,7 +68,7 @@ search_provider          : lunr # algolia # lunr (default), algolia
 
 # SEO Related
 # Don't delete this!
-google_site_verification : "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" # Replace this with your ID, or delete
+google_site_verification : # 
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -106,8 +106,8 @@ author:
   bio              : "Software Architect/Explaineer/Bar Geek"
   location         : "Charlotte, NC"
   email            :
-  uri              : "https://www.theastroshed.com"
-  home             : "https://www.theastroshed.com"
+  uri              : "https://www.south40astro"
+  home             : "https://www.south40astro.com"
   bitbucket        :
   codepen          :
   dribbble         :
