@@ -1,5 +1,5 @@
 ---
-title: "What is South 40 Astro?"
+title: "What is south40astro?"
 tags: [ astrophotography, ghro, widefield, galaxy, Milky Way ]
 classes: wide
 author: jamiesmith
@@ -29,7 +29,7 @@ gallery:
 
 ---
 
-Welcome to [South 40 astro](https://www.south40astro.com), where we talk about astronomy gear with a strong focus on astrophotography.  "South 40" is nestled on the south side of the Gayle H. Riggsbee observatory, the facility for the [Charlotte Amateur Astronomers Club (CAAC)](http://www.charlotteastronomers.org). We'll be sharing blogs, videos, tutorials, and, of course, completed works. 
+Welcome to [south40astro](https://www.south40astro.com), where we talk about astronomy gear with a strong focus on astrophotography.  "South 40" is nestled on the south side of the Gayle H. Riggsbee observatory, the facility for the [Charlotte Amateur Astronomers Club (CAAC)](http://www.charlotteastronomers.org). We'll be sharing blogs, videos, tutorials, and, of course, completed works. 
 
 <!--more-->
 

@@ -42,6 +42,14 @@
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
     <ul class="author__urls social-icons">
+      {% if author.astrobin %}
+        <li>
+          <a href="https://www.astrobin.com/users/{{ author.astrobin }}" itemprop="sameAs">
+            <i class="fa fa-camera-retro" aria-hidden="true"></i> AstroBin
+          </a>
+        </li>
+      {% endif %}
+
       {% if author.location %}
         <li itemprop="homeLocation" itemscope itemtype="http://schema.org/Place">
           <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">{{ author.location }}</span>
@@ -117,14 +125,6 @@
         <li>
           <a href="https://instagram.com/{{ author.instagram }}" itemprop="sameAs">
             <i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram
-          </a>
-        </li>
-      {% endif %}
-
-      {% if author.astrobin %}
-        <li>
-          <a href="https://www.astrobin.com/users/{{ author.astrobin }}" itemprop="sameAs">
-            <i class="fa fa-camera-retro" aria-hidden="true"></i> AstroBin
           </a>
         </li>
       {% endif %}
@@ -261,6 +261,22 @@
         <li>
           <a href="https://vine.co/u/{{ author.vine }}" itemprop="sameAs">
             <i class="fab fa-fw fa-vine" aria-hidden="true"></i> Vine
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author.cloudynights %}
+        <li>
+          <a href="https://www.cloudynights.com/user/{{ author.cloudynights }}/" itemprop="sameAs">
+            <i class="fas fa-fw fa-cloud" aria-hidden="true"></i> Cloudy Nights
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author.stargazerslounge %}
+        <li>
+          <a href="https://stargazerslounge.com/profile/{{ author.stargazerslounge }}/" itemprop="sameAs">
+            <i class="fas fa-fw fa-binoculars" aria-hidden="true"></i> Stargazers Lounge
           </a>
         </li>
       {% endif %}
