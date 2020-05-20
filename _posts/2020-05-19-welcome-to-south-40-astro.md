@@ -39,15 +39,15 @@ Welcome to [south40astro](https://www.south40astro.com), where we talk about ast
   caption="GHRO from above, north is uptown at about 11 o'clock"
 %}
 
-Our members have a very wide variety of equipment, ranging from DSLRs with wide & fast lenses, to long focal length CDK, and an equally diverse set of mounts, ranging from small camera trackers to permanently-mounted, full-encoder mounts.  Strangely, I don't think anyone has an Astro-Physics mount.
+Our members have a very wide variety of equipment, ranging from DSLRs with wide & fast lenses to long focal length CDKs, with an equally diverse set of mounts-- ranging from small camera trackers to permanently-mounted, full-encoder mounts.  Strangely, I don't think anyone has an Astro-Physics mount.
 
-The skies here aren't Arizona or New Mexico dark, but it is considerably darker than our yards.  You can actually see the Milky Way band at the right time of year, and even more with a few exposures with a DSLR, a camera tracker, and a kit lens.
+The skies here aren't Arizona or New Mexico dark, but it is considerably darker than our yards.  You can actually see the Milky Way band at the right time of year, and even more with a few exposures with a DSLR, a camera tracker, and a simple kit lens.
 
 {%
   include astrobin 
   image_id=310843
   is_local=true
-  caption="My first Milky Way Pic"
+  caption="Example Milky Way Pic"
 %}
 
 and Andromeda isn't lost in the glow of uptown Charlotte:
