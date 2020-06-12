@@ -7,25 +7,6 @@ author: jeffreygeiss
 header:
   teaser: assets/images/avatars/jeffreygeiss.jpg
 
-gallery:
-  - image_path: /assets/images/observatory/observatory-1.jpg
-    title: observatory-1.jpg
-  - image_path: /assets/images/observatory/observatory-2.jpg
-    title: observatory-2.jpg
-  - image_path: /assets/images/observatory/observatory-3.jpg
-    title: observatory-3.jpg
-  - image_path: /assets/images/observatory/observatory-5.jpg
-    title: observatory-5.jpg
-  - image_path: /assets/images/observatory/observatory-6.jpg
-    title: observatory-6.jpg
-  - image_path: /assets/images/observatory/observatory-9.jpg
-    title: observatory-9.jpg
-  - image_path: /assets/images/observatory/observatory-4.jpg
-    title: observatory-4.jpg
-  - image_path: /assets/images/observatory/observatory-7.jpg
-    title: observatory-7.jpg
-  - image_path: /assets/images/observatory/observatory-8.jpg
-    title: observatory-8.jpg
 
 ---
 
@@ -44,7 +25,7 @@ Weed?
 <!--more-->
 
 {%
-  include figure image_path="assets/images/avatars/jeffreygeiss.jpg"
+  include figure image_path="/assets/images/avatars/jeffreygeiss.jpg"
   alt="Jeff at his rig"
   caption="Jeff at his rig"
 %}
@@ -102,5 +83,4 @@ Astrophotography.
 
 -Jeff G.
 
-{% include gallery id="gallery" caption="Some of the equipment at our observatory" %}
 
