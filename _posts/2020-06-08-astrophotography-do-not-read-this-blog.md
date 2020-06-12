@@ -5,7 +5,7 @@ classes: wide
 author: jeffreygeiss
 
 header:
-  teaser: assets/images/posts/cosmic-camporee-2017.jpg
+  teaser: assets/images/avatars/jeffreygeiss.jpg
 
 gallery:
   - image_path: /assets/images/observatory/observatory-1.jpg
@@ -44,9 +44,9 @@ Weed?
 <!--more-->
 
 {%
-  include figure image_path="/assets/images/posts/cosmic-camporee-2017.jpg"
-  alt="overhead view of the observatory"
-  caption="Observatory from above, north is uptown at about 11 o'clock"
+  include figure image_path="assets/images/avatars/jeffreygeiss.jpg"
+  alt="Jeff at his rig"
+  caption="Jeff at his rig"
 %}
 
 
