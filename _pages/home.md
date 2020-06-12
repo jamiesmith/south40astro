@@ -37,8 +37,6 @@ outro:
   - excerpt: '[<i class="fab fa-paypal"></i> Tip Me](https://paypal.me/jamiesmithnc){: .btn .btn--primary}'
 ---
 
-{% include feature_row id="intro" type="center" %}
-
 {%- for post in site.posts limit:7 -%}
   {% include archive-single.html %}
 {%- endfor -%}
